@@ -9,10 +9,12 @@ About the script: The study utilized data from the participants of the HCJMRI co
 Group A participants were subjected to LPA using non-collinear input factors. The obtained subgroups were studied for their association with complications.
 A predictive model was built based on these findings to identify at-risk cases 
 
-#Dependencies
+#Dependencies:
 All statistical analyses were performed using R (Version 4.3.1) 
 
 Packages used: Refer the scripts
+
+Data Availaility: Available on request
 
 Steps of Analysis:
 1. Latent Profile Analysis (LPA)
