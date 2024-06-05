@@ -17,14 +17,14 @@ Packages used: Refer the scripts
 Data Availaility: Available on request
 
 Steps of Analysis:
-1. Latent Profile Analysis (LPA)
+1. Latent Profile Analysis (LPA):
 LPA clusters participants into distinct subgroups and can also impute missing values. It relies on various assumtions of variances and covariances to employ different models for identifying subgroups,
 aiding in the identification of different risk profiles.
 
-3. Multivariate Logistic Regression (MLR)
+2. Multivariate Logistic Regression (MLR):
 MLR develops a predictive model based on significant input variables identified from LPA, determining class membership with high accuracy.
 
-4. Prediction Validation
+3. Prediction Validation:
 The logistic regression model is validated on an independent dataset to ensure robustness and reliability in predicting class assignments
 
 Contact: Ruchi: ruchipunjabi27@gmail.com
