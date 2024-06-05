@@ -1,8 +1,10 @@
 #Project Title: Subgroup Analysis Using Latent Profile Analysis (LPA) and Logistic Regression
-#Overview
+
+#Overview:
 This project aims to explore the heterogeneity among patients to improve personalized treatment strategies. 
 The research is part of a collaborative project between SSBS and HCJMRI in Pune.
 The analysis involves three main steps: Latent Profile Analysis (LPA), Multiple Logistic Regression (MLR), and prediction validation.
+
 About the script: The study utilized data from the participants of the HCJMRI cohort, who were divided into Group A and Group B. To identify subgroups 
 Group A participants were subjected to LPA using non-collinear input factors. The obtained subgroups were studied for their association with complications.
 A predictive model was built based on these findings to identify at-risk cases 
